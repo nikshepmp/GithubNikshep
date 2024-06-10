@@ -1,2 +1,2 @@
 # GithubNikshep
- R Program Repositary
+College Lab Program Repository
